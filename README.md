@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I am fluent in both English and Spanish
+- 🌱 I’m currently learning advanced python and beginner SQL
+- 📫 How to reach me: ruizmateo0909@gmail.com
+
 <!--
 **Hazard099/Hazard099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
